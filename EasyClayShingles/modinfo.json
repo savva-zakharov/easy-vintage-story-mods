@@ -1,0 +1,14 @@
+{
+    "type": "content",
+    "modid": "easyclayshingles",
+    "name": "Easy Clay Shingles",
+    "authors": [
+      "Mindbird"
+    ],
+    "description": "Adds an alternative recipe for clay shingles.",
+    "version": "1.0.1",
+    "dependencies": {
+      "game": "1.20.0",
+      "aculinaryartillerypatch": "1.2.6-pre.4"
+    }
+  }

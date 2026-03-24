@@ -1,0 +1,27 @@
+{
+	"ingredientPattern": "C,K,R",
+	"width": 1,
+	"height": 3,
+	"ingredients": {
+		"C": {
+			"type": "item",
+			"code": "game:clay-{type}",
+			quantity: 4
+		},
+		"K": {
+			"type": "item",
+			"code": "game:knife-*",
+			"isTool": true
+		},
+		"R": {
+			"type": "item",
+			"code": "aculinaryartillery:rollingpin-*",
+			"isTool": true
+		}
+	},
+	"output": {
+		"type": "item",
+		"code": "game:shingle-raw-{type}",
+		quantity: 12
+	}
+}
